@@ -30,6 +30,6 @@ jobs:
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
-  hello-world-usach-workflow-circleci:
+  devops-usach-workflow-circleci:
     jobs:
       - automatization-maven-spring-app
