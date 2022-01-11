@@ -1,7 +1,7 @@
 # Getting Started
 
 ##PRueba
-
+##DOS
 ## Windows
 
 ### Compile Code
